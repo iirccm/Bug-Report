@@ -1,7 +1,7 @@
 Guideline-1
 ===========
 
-I got these information from [how to write a good bug report](https://www.softwaretestinghelp.com/how-to-write-good-bug-report/) and remove or arranged some parts according my usage.
+I got these information from [how to write a good bug report](https://www.softwaretestinghelp.com/how-to-write-good-bug-report/) and remove or arranged some parts according to my usage. The link includes more about here and it's very useful for further information especially to gain a perspective from a developer eyes. Also, [this link](https://www.softwaretestinghelp.com/how-to-find-a-bug-in-application-tips-and-tricks/) gives good information to start "catching" a bug on a system.
 
 -----------------------------------------------------------------------------------------------
 **Reporter:** Your in game name (ign).
