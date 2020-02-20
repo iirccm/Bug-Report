@@ -51,7 +51,7 @@ The template here is based on [Rockstar Games Support Ticket System](https://sup
 - **A4**- Clicks PC
 -------------------------------------
 - **Q5**- (Q4 + A4 + *Login requirement to continue*)
-(In order to submit a request, please **sign in** or **join** Social Club.)
+(**In order to submit** a request, please **sign in** or **join** Social Club.)
   - **Q5a**- Platform Handle (SteamID, PSNID, Gamertag)
   - **A5a**- MyGameName
   - **Q5b**- Is the bug reproducible?
