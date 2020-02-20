@@ -5,16 +5,15 @@ The template here is based on [Rockstar Games Support Ticket System](https://sup
 
 ------------------------------------------------------------------------------------------------
 
-**Step-1:** Go to the Support System
-
-**Step-2:** Now some standard questions are asked by the system and only thing that the user does following the steps and filling the necessary information:
-
-  **Example**
-
-Legend:
+**Legend:**
 - **Q** - Question
 - **O** - Option(s)
 - **A** - Answer
+
+**Step-1:** [Go to the Support System](https://support.rockstargames.com/)
+
+**Step-2:** Now some standard questions are asked by the system and only thing that the user does following the steps and filling the necessary information:
+
 -------------------------------------
 - **Q1**- What do you need help with?
 - **O1**- Red Dead Redemption 2
@@ -74,9 +73,9 @@ Legend:
 - **A7**- Clicks SUBMIT WEB TICKET
 -------------------------------------
   **Relevant Solutions**
-- [GTA Online PC Connection Troubleshooting](link1)
-- [Basic Troubleshooting for the PlayStation®4 Console](link2)
-- [Basic Troubleshooting for the Xbox One Console](link3)
+- [GTA Online PC Connection Troubleshooting](https://support.rockstargames.com/articles/200525767/GTA-Online-PC-Connection-Troubleshooting)
+- [Basic Troubleshooting for the PlayStation®4 Console](https://support.rockstargames.com/articles/204233943/Basic-Troubleshooting-for-the-PlayStation-4-Console)
+- [Basic Troubleshooting for the Xbox One Console](https://support.rockstargames.com/articles/204233953/Basic-Troubleshooting-for-the-Xbox-One-Console)
 
 **(\*)**  The time for Web Ticket may vary from 24 hours to 96 Hours
 
