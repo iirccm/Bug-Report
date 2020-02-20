@@ -1,6 +1,7 @@
 I got these information from [how to write a good bug report](https://www.softwaretestinghelp.com/how-to-write-good-bug-report/)
 
 And remove or arranged some parts according my usage.
+
 -----------------------------------------------------------------------------------------------
 **Reporter:** Your in game name (ign).
 
@@ -13,15 +14,14 @@ And remove or arranged some parts according my usage.
 **Priority:** When should a bug be fixed? Priority is generally set from P1 to P5. P1 as “fix the bug with the highest priority” and P5 as ” Fix when time permits”.
 
 **Severity:** This describes the impact of the bug.
-**Types of Severity:**
-
-    **Blocker:** No further testing work can be done.
-    **Critical:** Application crash, Loss of data.
-    **Major:** Major loss of function.
-    **Minor:** Minor loss of function.
-    **Trivial:** Some UI enhancements.
-    **Enhancement:** Request for a new feature or some enhancement in the existing one.
-    **Status:** When you are logging the bug into any bug tracking system then by default the bug status will be ‘New'.
+- **Types of Severity:**
+  - **Blocker:** No further testing work can be done.
+  - **Critical:** Application crash, Loss of data.
+  - **Major:** Major loss of function.
+  - **Minor:** Minor loss of function.
+  - **Trivial:** Some UI enhancements.
+  - **Enhancement:** Request for a new feature or some enhancement in the existing one.
+  - **Status:** When you are logging the bug into any bug tracking system then by default the bug status will be ‘New'.
 
 Later on, the bug goes through various stages like Fixed, Verified, Reopen, Won't Fix, etc.
 
