@@ -53,15 +53,15 @@ Legend:
 - **Q5**- (Q4 + A4 + Login requirement to continue)
 (In order to submit a request, please sign in or join Social Club.)
   - **Q5a**- Platform Handle (SteamID, PSNID, Gamertag)
-        - **A5a**- MyGameName
-        - **Q5b**- Is the bug reproducible?
-        - **A5b**- Clicks Yes or No
-        - **Q5c**- Does it stop progression?
-        - **A5c**- Clicks Yes or No
-        - **Q5d**- What are the steps to reproduce the bug?
-        - **A5d**- ... (Write down details briefly)
-        - **Q5e**- What is the expected outcome?
-        - **A5e**- ... (Write down Expected and Actual results in short)
+  - **A5a**- MyGameName
+  - **Q5b**- Is the bug reproducible?
+  - **A5b**- Clicks Yes or No
+  - **Q5c**- Does it stop progression?
+  - **A5c**- Clicks Yes or No
+  - **Q5d**- What are the steps to reproduce the bug?
+  - **A5d**- ... (Write down details briefly)
+  - **Q5e**- What is the expected outcome?
+  - **A5e**- ... (Write down Expected and Actual results in short)
 -------------------------------------
 - **Q6**- Upload (jpg, png, gif, txt)
 - **O6**- Drop Files Here To Upload (Max File Size 20 MB)
