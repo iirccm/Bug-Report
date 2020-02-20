@@ -2,6 +2,7 @@ Guideline-2
 ===========
 
 The template here is based on [Rockstar Games Support Ticket System](https://support.rockstargames.com/). It seems a good way of reporting.
+
 ------------------------------------------------------------------------------------------------
 
 **Step-1:** Go to the Support System
