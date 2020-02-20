@@ -2,8 +2,8 @@ The template here is based on Rockstar Games Support Ticket System. It seems a g
 https://support.rockstargames.com/
 ------------------------------------------------------------------------------------------------
 
-Go to the Support System
-Now some standard questions are asked by the system and only thing that the user does following the steps and filling the necessary information:
+**Step-1:** Go to the Support System
+**Step-2:** Now some standard questions are asked by the system and only thing that the user does following the steps and filling the necessary information:
 
   **Example**
 __Legend__
