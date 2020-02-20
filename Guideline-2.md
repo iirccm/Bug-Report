@@ -1,7 +1,7 @@
 Guideline-2
 ===========
 
-The template here is based on [Rockstar Games Support Ticket System](https://support.rockstargames.com/). It seems a good way of reporting.
+The template here is based on [Rockstar Games Support Ticket System](https://support.rockstargames.com/). It seems a good way of reporting so I prepared this as an example for myself and also for anyone that might be interested in. I see the main idea/approach behind this system so it can be adapted to any field. Literally any field...
 
 ------------------------------------------------------------------------------------------------
 
