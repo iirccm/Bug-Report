@@ -17,7 +17,7 @@ __Legend__
 -------------------------------------
 - **Q1**- What do you need help with?
 - **O1**- Red Dead Redemption 2
-        - Grand Theft Auto V
+     - Grand Theft Auto V
         - Rockstar Games Launcher
         - ...
 - **A1**- Clicks GTA-V Game Icon
