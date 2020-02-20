@@ -51,10 +51,8 @@ Legend:
 - **A4**- Clicks PC
 -------------------------------------
 - **Q5**- (Q4 + A4 + Login requirement to continue)
-
 (In order to submit a request, please sign in or join Social Club.)
-
-        - **Q5a**- Platform Handle (SteamID, PSNID, Gamertag)
+  - **Q5a**- Platform Handle (SteamID, PSNID, Gamertag)
         - **A5a**- MyGameName
         - **Q5b**- Is the bug reproducible?
         - **A5b**- Clicks Yes or No
@@ -75,9 +73,9 @@ Legend:
 - **A7**- Clicks SUBMIT WEB TICKET
 -------------------------------------
   **Relevant Solutions**
-- GTA Online PC Connection Troubleshooting
-- Basic Troubleshooting for the PlayStation®4 Console
-- Basic Troubleshooting for the Xbox One Console
+- [GTA Online PC Connection Troubleshooting](link1)
+- [Basic Troubleshooting for the PlayStation®4 Console](link2)
+- [Basic Troubleshooting for the Xbox One Console](link3)
 
 **(\*)**  The time for Web Ticket may vary from 24 hours to 96 Hours
 
