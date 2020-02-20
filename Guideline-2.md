@@ -5,6 +5,7 @@ The template here is based on [Rockstar Games Support Ticket System](https://sup
 ------------------------------------------------------------------------------------------------
 
 **Step-1:** Go to the Support System
+
 **Step-2:** Now some standard questions are asked by the system and only thing that the user does following the steps and filling the necessary information:
 
   **Example**
@@ -31,7 +32,7 @@ __Legend__
 -------------------------------------
 - **Q3**- What do you need help with GTA-V Online Play?
 - **O3**- Can't Login
-        - Missing In-Game Item
+        - - Missing In-Game Item
         - Shark Card Purchase
         - Gameplay Progress
         - Achievements and Trophies
@@ -51,7 +52,8 @@ __Legend__
 -------------------------------------
 - **Q5**- (Q4 + A4 + Login requirement to continue)
 
-          (In order to submit a request, please sign in or join Social Club.)
+(In order to submit a request, please sign in or join Social Club.)
+          
   - **Q5a**- Platform Handle (SteamID, PSNID, Gamertag)
   - **A5a**- MyGameName
   - **Q5b**- Is the bug reproducible?
