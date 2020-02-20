@@ -10,7 +10,7 @@ The template here is based on [Rockstar Games Support Ticket System](https://sup
 
   **Example**
 
-__Legend__
+Legend:
 - **Q** - Question
 - **O** - Option(s)
 - **A** - Answer
@@ -18,28 +18,28 @@ __Legend__
 - **Q1**- What do you need help with?
 - **O1**- Red Dead Redemption 2
      - Grand Theft Auto V
-        - Rockstar Games Launcher
-        - ...
+     - Rockstar Games Launcher
+     - ...
 - **A1**- Clicks GTA-V Game Icon
 -------------------------------------
 - **Q2**- What do you need help with GTA-V?
 - **O2**- Purchase / Activation
-        - Installation / Performance
-        - Story Mode Play
-        - Connectivity
-        - Online Play
+   - Installation / Performance
+   - Story Mode Play
+   - Connectivity
+   - Online Play
 - **A2**- Clicks Online Play
 -------------------------------------
 - **Q3**- What do you need help with GTA-V Online Play?
 - **O3**- Can't Login
-        - - Missing In-Game Item
-        - Shark Card Purchase
-        - Gameplay Progress
-        - Achievements and Trophies
-        - Bug Report
-        - Report Cheating
-        - Report A Player Group
-        - Ban or Suspension
+   - Missing In-Game Item
+   - Shark Card Purchase
+   - Gameplay Progress
+   - Achievements and Trophies
+   - Bug Report
+   - Report Cheating
+   - Report A Player Group
+   - Ban or Suspension
 - **A3**- Clicks Bug Report
 -------------------------------------
 - **Q4**- (Q3 + A3)
