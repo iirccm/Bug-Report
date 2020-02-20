@@ -8,6 +8,7 @@ The template here is based on [Rockstar Games Support Ticket System](https://sup
 **Step-2:** Now some standard questions are asked by the system and only thing that the user does following the steps and filling the necessary information:
 
   **Example**
+
 __Legend__
 - **Q** - Question
 - **O** - Option(s)
@@ -49,6 +50,7 @@ __Legend__
 - **A4**- Clicks PC
 -------------------------------------
 - **Q5**- (Q4 + A4 + Login requirement to continue)
+
           (In order to submit a request, please sign in or join Social Club.)
   - **Q5a**- Platform Handle (SteamID, PSNID, Gamertag)
   - **A5a**- MyGameName
@@ -77,4 +79,5 @@ __Legend__
 - Basic Troubleshooting for the Xbox One Console
 
 **(\*)**  The time for Web Ticket may vary from 24 hours to 96 Hours
-**(\*)*** The time for Chat Ticket may vary from 5 minutes to 2 hours
+
+**(\*)** The time for Chat Ticket may vary from 5 minutes to 2 hours
