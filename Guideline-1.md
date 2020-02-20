@@ -1,6 +1,7 @@
-I got these information from [how to write a good bug report](https://www.softwaretestinghelp.com/how-to-write-good-bug-report/)
+Guideline-1
+===========
 
-And remove or arranged some parts according my usage.
+I got these information from [how to write a good bug report](https://www.softwaretestinghelp.com/how-to-write-good-bug-report/) and remove or arranged some parts according my usage.
 
 -----------------------------------------------------------------------------------------------
 **Reporter:** Your in game name (ign).
@@ -33,11 +34,10 @@ Later on, the bug goes through various stages like Fixed, Verified, Reopen, Won'
 
 **Description:** A detailed description of the bug.
 
-**Use the following fields for the description field:**
-
-    **Reproduce steps:** Clearly, mention the steps to reproduce the bug.
-    **Expected result:** How the application should behave on the above-mentioned steps.
-    **Actual result:** What is the actual result of running the above steps i.e. the bug behavior.
+- **Use the following fields for the description field:**
+  - **Reproduce steps:** Clearly, mention the steps to reproduce the bug.
+  - **Expected result:** How the application should behave on the above-mentioned steps.
+  - **Actual result:** What is the actual result of running the above steps i.e. the bug behavior.
 
 These are the important steps in the bug report. You can also add the “Report type” as one more field which will describe the bug type.
 
