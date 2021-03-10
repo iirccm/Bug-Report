@@ -14,3 +14,6 @@ Revert test __directly__ through GitHub web interface with pull request (since i
 
 - The main article for the answer
 [GitHub Docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/reverting-a-pull-request#reverting-a-pull-request)
+
+- Resolving merge conflicts
+[Video](https://www.youtube.com/watch?v=JtIX3HJKwfo&t=5s)
