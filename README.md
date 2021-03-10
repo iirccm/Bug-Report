@@ -7,7 +7,6 @@ I would like to start with a subject **Bug Report** on this repository.
 # Test Area
 
 Revert test __directly__ through GitHub web interface with pull request (since it's stated that it can only be done for pull requests (PR) through the interface)
-
 - The related questions
   - [Answer-1](https://stackoverflow.com/questions/42548836/revert-a-merge-commit-from-a-protected-branch-on-github-com)
   - [Answer-2](https://stackoverflow.com/questions/25101983/can-i-revert-commits-directly-on-github)
