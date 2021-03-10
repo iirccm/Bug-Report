@@ -1,7 +1,7 @@
 # Bug-Report
 I'm not used to use this platform as a user since I only used once to create a repository a year ago so this is kinda my first attempt to understand the concept of the system. 
 
-I would like to start with a subject **Bug Report** on this repository.
+I would like to start with a subject **Bug Report** on this repository. The below *Test Area* is an indepedent place for my testings so not a direct relation exists. (I know I could write all those extra lines into a new file, maybe I'll do it later)
 
 # Test Area
 Revert test __directly__ through GitHub web interface with pull request (since it's stated that it can only be done for pull requests (PR) through the interface)
@@ -16,7 +16,7 @@ Resolving merge conflicts
 - [Video](https://www.youtube.com/watch?v=JtIX3HJKwfo&t=5s)
 
 Adding colors
-- How to add color to Github's README.md file (https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
+- [How to add color to Github's README.md file](https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 
 # 1 @AlecRust
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
