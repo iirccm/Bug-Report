@@ -18,13 +18,16 @@ Resolving merge conflicts
 Adding colors
 - How to add color to Github's README.md file (https://stackoverflow.com/questions/11509830/how-to-add-color-to-githubs-readme-md-file)
 
-#-1 @AlecRust
+# 1 @AlecRust
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
-#-2 @AlecRust
+
+# 2 @AlecRust
 ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
-#-3 @AlecRust
+
+# 3 @AlecRust
 ![#f03c15](https://placehold.it/150/ffffff/ff0000?text=hello) `test`
-#-4 @craigmichaelmartin
+
+# 4 @craigmichaelmartin
 ```diff
 - text in red
 + text in green
@@ -32,10 +35,12 @@ Adding colors
 # text in gray
 @@ text in purple (and bold)@@
 ```
-#-5 @bwindels
+
+# 5 @bwindels
 `#00ff00`
 `rgba(0,0,0,1)`
-#-6 @Unicornist
+
+# 6 @Unicornist
 🔴🟠🟡🟢🔵🟣🟤⚫⚪🔘🛑
 
 🟥🟧🟨🟩🟦🟪🟫⬛⬜🔲🔳
