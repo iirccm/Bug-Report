@@ -15,5 +15,5 @@ Revert test __directly__ through GitHub web interface with pull request (since i
 - The main article for the answer
 [GitHub Docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/reverting-a-pull-request#reverting-a-pull-request)
 
-Resolving merge conflicts
+Resolving merge conflicts "After I'll commit this sentence into the current branch I'm writing (patch-2), I'll push it from here to patch-1 branch with __rebase and merge method__
 - [Video](https://www.youtube.com/watch?v=JtIX3HJKwfo&t=5s)
