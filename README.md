@@ -61,5 +61,5 @@ Adding colors
 Test-123
 
 # Image Test
-![Pull Request Question](http://prntscr.com/10j318h.png)
+![Pull Request Question](https://i.hizliresim.com/F8FEel.png)
 
